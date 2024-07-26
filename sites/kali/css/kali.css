@@ -1,0 +1,80 @@
+@charset "utf-8";
+.contents {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 16px;
+}
+.subheadings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #BC0501;
+}
+
+.headings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BC0501;
+	font-weight: bold;
+}
+.bottomtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.bullets {
+	padding-top: 3px;
+}
+.bullets2lines {
+	padding-top: 5px;
+}
+a.gmmi:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	color: #333333;
+}
+a.gmmi:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-decoration: none;
+}
+a.gmmi:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+}
+.currentproject {
+	font-family: Arial, Helvetica, sans-serif, "Zurich Cn BT";
+	font-size: 12px;
+	font-weight: bold;
+	color: #1f5480;
+}
+.homepagebullets {
+	padding-top: 8px;
+}
+.contactaddress {
+	font-family: Arial, Helvetica, sans-serif, "Zurich Cn BT";
+	font-size: 12px;
+	line-height: 18px;
+}
+a.pdf:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+a.pdf:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.pdf:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #BC0501;
+	text-decoration: none;
+}

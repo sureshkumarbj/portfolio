@@ -1,0 +1,9 @@
+text1=Vamana Business India (P) Ltd
+&text2=Proudly Presents
+&keyline1=External JPG Images
+&keyline2=External Logo
+&keyline3=Text Easily Customized
+&keyline4=Free Support!
+&keyline5=Immediate Download!
+&keyline6=Instructions Manual!
+&enterlink=http://www.free-flash-template.com
